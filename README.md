@@ -18,6 +18,7 @@ Clone the repository to your local machine
 $git clone git@github.com:ngodi/zinc_page_queries.git
 
 cd into the 'zinc_page_queries' directory,
+Run $ bundle install #to install required gems (rspec) 
 
 Running the program
 -------------------
