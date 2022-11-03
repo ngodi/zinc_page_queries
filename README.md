@@ -22,8 +22,6 @@ cd into the 'zinc_page_queries' directory,
 Running the program
 -------------------
 - Open the terminal
-- Run ruby start.rb input.txt to pass commands in the input.txt file OR
-    update the commands as in input.txt and run ruby start.rb input.txt
 - Run ruby run.rb data/input_log.txt;
    to get input file into the program and display the result of the analyses.
 
